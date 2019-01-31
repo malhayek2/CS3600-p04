@@ -14,10 +14,11 @@
 #include <map>
 #include <sstream>
 using namespace std;
-#include "glut.h"
+#include <GL/freeglut.h>
 #include "graphics.h"
 #include "particle.h"
 #include "forces.h"
+#include <string.h>
 
 
 // Global Variables
