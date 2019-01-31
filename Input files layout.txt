@@ -1,0 +1,7 @@
+particles Particle(double x, double y, double xDir, double yDir, double r_temp, bool anchored_temp)
+SpringForce(assigned_p[point1], assigned_p[point2], f_spring_constant, f_damping_constant, f_rest_length)
+
+
+
+DeltaT  has been added to the input file as "deltaT,0.01"
+
